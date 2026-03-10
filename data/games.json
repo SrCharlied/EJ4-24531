@@ -1,0 +1,102 @@
+[
+  {
+    "id": 1,
+    "title": "Elden Ring",
+    "developer": "FromSoftware",
+    "genre": "Action RPG",
+    "release_year": 2022,
+    "difficulty": 9,
+    "platform": "PC",
+    "boss_count": 165
+  },
+  {
+    "id": 2,
+    "title": "Dark Souls III",
+    "developer": "FromSoftware",
+    "genre": "Action RPG",
+    "release_year": 2016,
+    "difficulty": 10,
+    "platform": "PS4",
+    "boss_count": 25
+  },
+  {
+    "id": 3,
+    "title": "Bloodborne",
+    "developer": "FromSoftware",
+    "genre": "Action RPG",
+    "release_year": 2015,
+    "difficulty": 10,
+    "platform": "PS4",
+    "boss_count": 12
+  },
+    {
+        "id": 4,
+        "title": "Sekiro: Shadows Die Twice",
+        "developer": "FromSoftware",
+        "genre": "Action-Adventure",
+        "release_year": 2019,
+        "difficulty": 10,
+        "platform": "PC",
+        "boss_count": 20
+    },
+    {
+        "id": 5,
+        "title": "Demon's Souls (Remake)",
+        "developer": "Bluepoint Games",
+        "genre": "Action RPG",
+        "release_year": 2020,
+        "difficulty": 9,
+        "platform": "PS5",
+        "boss_count": 19
+    },
+    {
+        "id": 6,
+        "title": "Nioh 2",
+        "developer": "Team Ninja",
+        "genre": "Action RPG",
+        "release_year": 2020,
+        "difficulty": 8,
+        "platform": "PC",
+        "boss_count": 50
+    },
+    {
+        "id": 7,
+        "title": "Dark Souls II",
+        "developer": "FromSoftware",
+        "genre": "Action RPG",
+        "release_year": 2014,
+        "difficulty": 9,
+        "platform": "PC",
+        "boss_count": 26
+    },
+    {
+        "id": 8,
+        "title": "Dark Souls",
+        "developer": "FromSoftware",
+        "genre": "Action RPG",
+        "release_year": 2011,
+        "difficulty": 10,
+        "platform": "PC",
+        "boss_count": 26
+    },
+    {
+        "id": 9,
+        "title": "Lies of P",
+        "developer": "Neowiz Games",
+        "genre": "Action RPG",
+        "release_year": 2023,
+        "difficulty": 9,
+        "platform": "PC",
+        "boss_count": 30
+    },
+    {
+        "id": 10,
+        "title": "Elden Ring: Shadow of the Erdtree",
+        "developer": "FromSoftware",
+        "genre": "Action RPG",
+        "release_year": 2024,
+        "difficulty": 10,
+        "platform": "PC",
+        "boss_count": 50
+    }
+]
