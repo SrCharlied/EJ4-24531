@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "title": "Elden Ring GOTY",
+    "title": "Elden Ring",
     "developer": "FromSoftware",
     "genre": "Action RPG",
     "release_year": 2022,
@@ -98,5 +98,15 @@
     "difficulty": 10,
     "platforms": "",
     "boss_count": 50
+  },
+  {
+    "id": 11,
+    "title": "PERSONA 5 Royal",
+    "developer": "Atlus",
+    "genre": "Role-Playing Game",
+    "release_year": 2020,
+    "difficulty": 9,
+    "platforms": "PC",
+    "boss_count": 10
   }
 ]
