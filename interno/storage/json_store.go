@@ -32,3 +32,15 @@ func (s *JSONStore) Load() error {
 
 	return json.Unmarshal(data, &s.Games)
 }
+
+// con esta función se guarda toda la data actualizada que se tenga en memoria, en el archivo json
+
+func (s *JSONStore) Save() error {
+
+	data, err := json.MarshalIndent(s.Games, "", "  ")
+	if err != nil {
+		return err
+	}
+
+	return os.WriteFile(s.FilePath, data, 0644)
+}

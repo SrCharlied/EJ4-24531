@@ -14,6 +14,7 @@ FROM alpine:latest
 WORKDIR /app
 
 COPY --from=builder /app/server .
+COPY --from=builder /app/data ./data
 
 ENV PORT=24531
 EXPOSE 24531

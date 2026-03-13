@@ -18,7 +18,7 @@ func main() {
 	}
 
 	// se inicializa el almacenamiento
-	store, err := storage.NewJSONStore("Data/games.json")
+	store, err := storage.NewJSONStore("data/games.json")
 	if err != nil {
 		log.Fatal("Error cargando la data:", err)
 	}
